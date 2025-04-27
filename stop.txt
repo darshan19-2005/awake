@@ -33,4 +33,9 @@ int main() {
     return 0;
 }
 
+     #OUTPUT OFF THE PROGRAMM
+     Enter an operator (+, -, *, /): +
+Enter two numbers: 5 3
+5.00 + 3.00 = 8.00
+
 
